@@ -4,11 +4,11 @@ Build Blogyou web application using Node Js, Express Js, MongoDB and Google OAut
 # Usage
 To setup the project environment, you must add your mongoDB URI and Google OAuth credentials to the config.env file.
 
-Install dependencies
+# Install dependencies
 npm install
 
-Run in development
+# Run in development
 npm run dev
 
-Run in production
+# Run in production
 npm start
